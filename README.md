@@ -98,7 +98,7 @@ Cross-Validation Scores:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/heart-disease-prediction.git
+git clone https://github.com/AnubhavKarki/heart-disease-prediction.git
 cd heart-disease-prediction
 
 # Create virtual environment
