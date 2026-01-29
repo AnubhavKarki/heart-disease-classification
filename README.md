@@ -55,7 +55,7 @@ Target: 95% accuracy on test set for proof of concept.
 | `oldpeak`  | ST depression                |
 | `slope`    | Slope of peak exercise ST    |
 | `ca`       | Number of major vessels      |
-| `thal`     | Thalassemia                  |
+| `thalach`     | Maximum Heart Rate                  |
 | `target`   | Heart disease (0 = no, 1 = yes) |
 
 ## Models
